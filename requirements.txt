@@ -1,0 +1,5 @@
+# versions used for the paper; newer versions are expected to work
+numpy>=1.26        # 2.5.3 used
+pandas>=2.0        # 3.0.5 used
+scipy>=1.11        # 1.18.1 used
+matplotlib>=3.8    # 3.11.2 used

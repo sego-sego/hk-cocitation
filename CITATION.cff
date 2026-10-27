@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Square-root dilution of value transfer through citations: data and code"
+authors:
+  - family-names: Pisarchik
+    given-names: Alexander N.
+    affiliation: "Center for Biomedical Technology, Universidad Politécnica de Madrid"
+  - family-names: Hramov
+    given-names: Alexander E.
+    affiliation: "Research Institute of Applied Artificial Intelligence and Digital Solutions, Plekhanov Russian University of Economics"
+license: MIT
+date-released: 2026-10-27
+version: "1.0.0"
+# doi: 10.5281/zenodo.XXXXXXX          # fill in after the Zenodo deposit
+# repository-code: https://github.com/OWNER/hk-cocitation
+preferred-citation:
+  type: article
+  title: "Square-root dilution of value transfer through citations"
+  authors:
+    - family-names: Pisarchik
+      given-names: Alexander N.
+    - family-names: Hramov
+      given-names: Alexander E.
+  journal: "Chaos, Solitons & Fractals"
+  year: 2026
+  notes: "submitted"

@@ -1,0 +1,8 @@
+# data are deposited on Zenodo, not in git
+data/*
+!data/README.md
+results*/
+release_data/
+*.part
+__pycache__/
+.env
